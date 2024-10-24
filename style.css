@@ -1,0 +1,9 @@
+li, a {text-decoration: none; list-style: none;}
+.sectionone {display:flex; flex-direction:row; flex:auto; justify-content:space-between;}
+.header {display:flex; background-color:aqua; }
+.uppercenter {display:flex; flex-direction:row;}
+.rightspace {background-color: blue; display:flex; flex:auto; width:16%;}
+.leftspace {background-color: blue;display:flex; flex:auto; width:16%;}
+.uppercenter-left {background-color: blueviolet;}
+.uppercenter-right {background-color: bisque;}
+.upper-mid {display:flex; flex-direction:column; flex:auto; width: 68%;}
