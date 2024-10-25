@@ -15,7 +15,7 @@ ul {display:flex; gap:20px; flex:1; align-items: center;}
 .small {color:white; font-size: 18px;}
 .big {color:white; font-size: 24px; font-weight:bold;}
 .containerupright {background-color: grey; margin:auto; padding-top: 100px; padding-bottom:100px; padding-left: 230px; padding-right:230px;}
-button {width:120px; height: 30px; margin-top: 10px; border-radius:10px; background-color: #3882f6; color:white; font-size:20px; font-weight:bold; }
+.buttonone {width:120px; height: 30px; margin-top: 10px; border-radius:10px; background-color: #3882f6; color:white; font-size:20px; font-weight:bold; }
 
 .headersectwo {display:flex; justify-content: center; flex:auto; align-items:center; text-align:center; font-size:36px; font-weight:bold; padding-top:40px; padding-bottom:40px;}
 .sectiontwo {display:flex; justify-content:center; flex:1; gap:60px;   flex-direction:row; padding-bottom:100px; }
@@ -29,3 +29,10 @@ img {
     .sectionthree {display:flex; flex-direction: column; flex:auto; background-color:#e5e7eb; justify-content: center; height:500px;}
    .quote   {align-self:center; font-size:36px; color:#1F2937; margin-left:400px; margin-right:400px;}
    .name  {align-self:flex-end; font-weight:bold; font-size:24px; margin-right:400px;}
+
+
+   .sectionfour {display:flex; flex:auto; height:400px;  }
+   .containerblue {display:flex; width:900px; height:150px; background-color: #3882f6; margin:auto; flex-direction:column; justify-content: center; padding-left: 100px; border-radius:10px;}
+   .buttontwo {height:35px; width:125px;  margin-right:50px; margin-left:250px; background-color: #3882f6; border: 2px solid white; border-radius:6px; font-weight:bold; color:white; font-size:17px;}
+   .text-center {display:flex; align-items:center; color:white;}
+   .text-center-bold {font-weight:bold; font-size:24px; color:white;}
