@@ -17,4 +17,11 @@ ul {display:flex; gap:20px; flex:1; align-items: center;}
 .containerupright {background-color: grey; margin:auto; padding-top: 100px; padding-bottom:100px; padding-left: 230px; padding-right:230px;}
 button {width:120px; height: 30px; margin-top: 10px; border-radius:10px; background-color: #3882f6; color:white; font-size:20px; font-weight:bold; }
 
-.sectiontwo {display:flex; justify-content:center;}
+.headersectwo {display:flex; justify-content: center; flex:auto; align-items:center; text-align:center; font-size:36px; font-weight:bold; padding-top:40px; padding-bottom:40px;}
+.sectiontwo {display:flex; justify-content:center; flex:1; gap:60px;   flex-direction:row; padding-bottom:100px; }
+.imgg {display:flex; flex-direction:column; width:200px; align-items:center;}
+.text {display:flex; flex:1; text-align: center;}
+img {
+    width: 200px;
+    height: 200px;}
+ 
