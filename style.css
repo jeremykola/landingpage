@@ -1,4 +1,4 @@
-body {font-family:Roboto ,Times, Serif; display:flex; flex:auto;}
+body {font-family:Roboto ,Times, Serif; margin:0;}
 li, a {text-decoration: none; list-style: none; }
 .sectionone {display:flex; flex-direction:row; flex:auto; justify-content:space-between; height:400px;}
 .header {display:flex; background-color:#1F2937; height:50px;  }
@@ -16,3 +16,5 @@ ul {display:flex; gap:20px; flex:1; align-items: center;}
 .big {color:white; font-size: 24px; font-weight:bold;}
 .containerupright {background-color: grey; margin:auto; padding-top: 100px; padding-bottom:100px; padding-left: 230px; padding-right:230px;}
 button {width:120px; height: 30px; margin-top: 10px; border-radius:10px; background-color: #3882f6; color:white; font-size:20px; font-weight:bold; }
+
+.sectiontwo {display:flex; justify-content:center;}
